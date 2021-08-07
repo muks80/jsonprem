@@ -1,0 +1,14 @@
+{
+  "name": "premjson",
+  "version": "1.0.0",
+  "description": "json Rest API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
